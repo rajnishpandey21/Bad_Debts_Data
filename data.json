@@ -4,7 +4,7 @@
     "version": "7.0-STATIC",
     "sheet": "Master Student Tracker",
     "rowCount": 11430,
-    "lastUpdated": "2025-10-18T18:30:52.740Z"
+    "lastUpdated": "2025-10-18T18:52:00.814Z"
   },
   "data": [
     {
@@ -126151,8 +126151,8 @@
       "RemainingAmount": 7498.98,
       "Next_Unpaid_DueDate": "2025-08-04",
       "Next_Unpaid_Amount": 2499.3999999999996,
-      "Our_Status": "",
-      "BadDebt": 0
+      "Our_Status": "Absconded",
+      "BadDebt": 7498.98
     },
     {
       "scheme_id": "22879",
@@ -166870,8 +166870,8 @@
       "RemainingAmount": 1928.31,
       "Next_Unpaid_DueDate": "2025-08-04",
       "Next_Unpaid_Amount": 1928,
-      "Our_Status": "",
-      "BadDebt": 0
+      "Our_Status": "Absconded",
+      "BadDebt": 1928.31
     },
     {
       "scheme_id": "22433",
@@ -173716,8 +173716,8 @@
       "RemainingAmount": 500.03,
       "Next_Unpaid_DueDate": "2025-08-04",
       "Next_Unpaid_Amount": 500,
-      "Our_Status": "",
-      "BadDebt": 0
+      "Our_Status": "Absconded",
+      "BadDebt": 500.03
     },
     {
       "scheme_id": "28968",
@@ -174325,8 +174325,8 @@
       "RemainingAmount": 999.99,
       "Next_Unpaid_DueDate": "2025-08-04",
       "Next_Unpaid_Amount": 1000,
-      "Our_Status": "",
-      "BadDebt": 0
+      "Our_Status": "Absconded",
+      "BadDebt": 999.99
     },
     {
       "scheme_id": "22433",
@@ -174577,8 +174577,8 @@
       "RemainingAmount": 999.91,
       "Next_Unpaid_DueDate": "2025-08-04",
       "Next_Unpaid_Amount": 1000,
-      "Our_Status": "",
-      "BadDebt": 0
+      "Our_Status": "Absconded",
+      "BadDebt": 999.91
     },
     {
       "scheme_id": "22547",
@@ -174619,8 +174619,8 @@
       "RemainingAmount": 1299.98,
       "Next_Unpaid_DueDate": "2025-08-04",
       "Next_Unpaid_Amount": 1300,
-      "Our_Status": "",
-      "BadDebt": 0
+      "Our_Status": "Absconded",
+      "BadDebt": 1299.98
     },
     {
       "scheme_id": "22356",
@@ -174766,8 +174766,8 @@
       "RemainingAmount": 1000.01,
       "Next_Unpaid_DueDate": "2025-08-04",
       "Next_Unpaid_Amount": 1000,
-      "Our_Status": "",
-      "BadDebt": 0
+      "Our_Status": "Absconded",
+      "BadDebt": 1000.01
     },
     {
       "scheme_id": "22530",
