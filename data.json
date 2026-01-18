@@ -4,7 +4,7 @@
     "version": "7.0-STATIC",
     "sheet": "Master Student Tracker",
     "rowCount": 14967,
-    "lastUpdated": "2026-01-18T18:32:54.646Z"
+    "lastUpdated": "2026-01-18T18:44:19.812Z"
   },
   "data": [
     {
@@ -214792,8 +214792,8 @@
       "RemainingAmount": 3000.01,
       "Next_Unpaid_DueDate": "2025-11-04",
       "Next_Unpaid_Amount": 3000.01,
-      "Our_Status": "",
-      "BadDebt": 0
+      "Our_Status": "Absconded",
+      "BadDebt": 3000.01
     },
     {
       "scheme_id": "30002",
@@ -215317,8 +215317,8 @@
       "RemainingAmount": 4500.8,
       "Next_Unpaid_DueDate": "2025-11-04",
       "Next_Unpaid_Amount": 4500.8,
-      "Our_Status": "",
-      "BadDebt": 0
+      "Our_Status": "Absconded",
+      "BadDebt": 4500.8
     },
     {
       "scheme_id": "29907",
@@ -215338,8 +215338,8 @@
       "RemainingAmount": 5000,
       "Next_Unpaid_DueDate": "2025-11-04",
       "Next_Unpaid_Amount": 5000,
-      "Our_Status": "",
-      "BadDebt": 0
+      "Our_Status": "Absconded",
+      "BadDebt": 5000
     },
     {
       "scheme_id": "30034",
@@ -215380,8 +215380,8 @@
       "RemainingAmount": 1650.14,
       "Next_Unpaid_DueDate": "2025-11-04",
       "Next_Unpaid_Amount": 1650.14,
-      "Our_Status": "",
-      "BadDebt": 0
+      "Our_Status": "Absconded",
+      "BadDebt": 1650.14
     },
     {
       "scheme_id": "29932",
@@ -219832,8 +219832,8 @@
       "RemainingAmount": 2167.71,
       "Next_Unpaid_DueDate": "2025-11-04",
       "Next_Unpaid_Amount": 2167.71,
-      "Our_Status": "",
-      "BadDebt": 0
+      "Our_Status": "Absconded",
+      "BadDebt": 2167.71
     },
     {
       "scheme_id": "29890",
@@ -242722,8 +242722,8 @@
       "RemainingAmount": 6051.02,
       "Next_Unpaid_DueDate": "2025-11-04",
       "Next_Unpaid_Amount": 2430.5999999999995,
-      "Our_Status": "",
-      "BadDebt": 0
+      "Our_Status": "Absconded",
+      "BadDebt": 6051.02
     },
     {
       "scheme_id": "29990",
