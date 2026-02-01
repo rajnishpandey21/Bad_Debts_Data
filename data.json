@@ -4,7 +4,7 @@
     "version": "7.0-STATIC",
     "sheet": "Master Student Tracker",
     "rowCount": 15624,
-    "lastUpdated": "2026-02-01T18:28:51.341Z"
+    "lastUpdated": "2026-02-01T18:44:42.219Z"
   },
   "data": [
     {
@@ -227266,8 +227266,8 @@
       "RemainingAmount": 3000,
       "Next_Unpaid_DueDate": "2025-11-18",
       "Next_Unpaid_Amount": 3000,
-      "Our_Status": "",
-      "BadDebt": 0
+      "Our_Status": "Absconded",
+      "BadDebt": 3000
     },
     {
       "scheme_id": "30312",
@@ -227392,8 +227392,8 @@
       "RemainingAmount": 6625.01,
       "Next_Unpaid_DueDate": "2025-11-18",
       "Next_Unpaid_Amount": 6625.01,
-      "Our_Status": "",
-      "BadDebt": 0
+      "Our_Status": "Absconded",
+      "BadDebt": 6625.01
     },
     {
       "scheme_id": "30588",
@@ -227518,8 +227518,8 @@
       "RemainingAmount": 8099.99,
       "Next_Unpaid_DueDate": "2025-11-18",
       "Next_Unpaid_Amount": 8099.99,
-      "Our_Status": "",
-      "BadDebt": 0
+      "Our_Status": "Absconded",
+      "BadDebt": 8099.99
     },
     {
       "scheme_id": "29978",
@@ -227560,8 +227560,8 @@
       "RemainingAmount": 4866.91,
       "Next_Unpaid_DueDate": "2025-11-18",
       "Next_Unpaid_Amount": 4866.91,
-      "Our_Status": "",
-      "BadDebt": 0
+      "Our_Status": "Absconded",
+      "BadDebt": 4866.91
     },
     {
       "scheme_id": "30522",
@@ -227665,8 +227665,8 @@
       "RemainingAmount": 10285.73,
       "Next_Unpaid_DueDate": "2025-11-18",
       "Next_Unpaid_Amount": 10285.73,
-      "Our_Status": "",
-      "BadDebt": 0
+      "Our_Status": "Absconded",
+      "BadDebt": 10285.73
     },
     {
       "scheme_id": "30426",
@@ -251458,8 +251458,8 @@
       "RemainingAmount": 7125,
       "Next_Unpaid_DueDate": "2025-11-18",
       "Next_Unpaid_Amount": 2275,
-      "Our_Status": "",
-      "BadDebt": 0
+      "Our_Status": "Absconded",
+      "BadDebt": 7125
     },
     {
       "scheme_id": "39862",
@@ -251815,8 +251815,8 @@
       "RemainingAmount": 7000.02,
       "Next_Unpaid_DueDate": "2025-11-18",
       "Next_Unpaid_Amount": 2200,
-      "Our_Status": "",
-      "BadDebt": 0
+      "Our_Status": "Absconded",
+      "BadDebt": 7000.02
     },
     {
       "scheme_id": "39956",
@@ -252109,8 +252109,8 @@
       "RemainingAmount": 9262.51,
       "Next_Unpaid_DueDate": "2025-11-18",
       "Next_Unpaid_Amount": 4357.8,
-      "Our_Status": "",
-      "BadDebt": 0
+      "Our_Status": "Absconded",
+      "BadDebt": 9262.51
     },
     {
       "scheme_id": "39862",
@@ -252172,8 +252172,8 @@
       "RemainingAmount": 6800.01,
       "Next_Unpaid_DueDate": "2025-11-18",
       "Next_Unpaid_Amount": 2480,
-      "Our_Status": "",
-      "BadDebt": 0
+      "Our_Status": "Absconded",
+      "BadDebt": 6800.01
     },
     {
       "scheme_id": "39942",
@@ -252193,8 +252193,8 @@
       "RemainingAmount": 10599.07,
       "Next_Unpaid_DueDate": "2025-11-18",
       "Next_Unpaid_Amount": 3159.3999999999996,
-      "Our_Status": "",
-      "BadDebt": 0
+      "Our_Status": "Absconded",
+      "BadDebt": 10599.07
     },
     {
       "scheme_id": "30521",
@@ -252319,8 +252319,8 @@
       "RemainingAmount": 9400.02,
       "Next_Unpaid_DueDate": "2025-11-18",
       "Next_Unpaid_Amount": 4040,
-      "Our_Status": "",
-      "BadDebt": 0
+      "Our_Status": "Absconded",
+      "BadDebt": 9400.02
     },
     {
       "scheme_id": "35397",
