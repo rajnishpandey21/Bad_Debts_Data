@@ -4,7 +4,7 @@
     "version": "7.0-STATIC",
     "sheet": "Master Student Tracker",
     "rowCount": 19283,
-    "lastUpdated": "2026-04-18T18:38:52.911Z"
+    "lastUpdated": "2026-04-18T18:52:46.334Z"
   },
   "data": [
     {
@@ -290854,8 +290854,8 @@
       "RemainingAmount": 2500.02,
       "Next_Unpaid_DueDate": "2026-02-02",
       "Next_Unpaid_Amount": 2500,
-      "Our_Status": "",
-      "BadDebt": 0
+      "Our_Status": "Absconded",
+      "BadDebt": 2500.02
     },
     {
       "scheme_id": "39943",
@@ -317104,8 +317104,8 @@
       "RemainingAmount": 13200.32,
       "Next_Unpaid_DueDate": "2026-02-02",
       "Next_Unpaid_Amount": 6720,
-      "Our_Status": "",
-      "BadDebt": 0
+      "Our_Status": "Absconded",
+      "BadDebt": 13200.32
     },
     {
       "scheme_id": "42810",
