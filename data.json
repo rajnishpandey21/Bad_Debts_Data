@@ -4,7 +4,7 @@
     "version": "7.0-STATIC",
     "sheet": "Master Student Tracker",
     "rowCount": 24779,
-    "lastUpdated": "2026-08-13T18:46:49.073Z"
+    "lastUpdated": "2026-08-13T19:05:49.528Z"
   },
   "data": [
     {
@@ -401020,8 +401020,8 @@
       "RemainingAmount": 1882.56,
       "Next_Unpaid_DueDate": "2026-05-30",
       "Next_Unpaid_Amount": 1882.8799999999992,
-      "Our_Status": "",
-      "BadDebt": 0
+      "Our_Status": "Absconded",
+      "BadDebt": 1882.56
     },
     {
       "scheme_id": "51910",
@@ -401083,8 +401083,8 @@
       "RemainingAmount": 876.12,
       "Next_Unpaid_DueDate": "2026-05-30",
       "Next_Unpaid_Amount": 876,
-      "Our_Status": "",
-      "BadDebt": 0
+      "Our_Status": "Absconded",
+      "BadDebt": 876.12
     },
     {
       "scheme_id": "46563",
@@ -401272,8 +401272,8 @@
       "RemainingAmount": 600.14,
       "Next_Unpaid_DueDate": "2026-05-30",
       "Next_Unpaid_Amount": 600,
-      "Our_Status": "",
-      "BadDebt": 0
+      "Our_Status": "Absconded",
+      "BadDebt": 600.14
     },
     {
       "scheme_id": "51093",
@@ -401314,8 +401314,8 @@
       "RemainingAmount": 934.22,
       "Next_Unpaid_DueDate": "2026-05-30",
       "Next_Unpaid_Amount": 934,
-      "Our_Status": "",
-      "BadDebt": 0
+      "Our_Status": "Absconded",
+      "BadDebt": 934.22
     },
     {
       "scheme_id": "51025",
@@ -401419,8 +401419,8 @@
       "RemainingAmount": 3500.15,
       "Next_Unpaid_DueDate": "2026-05-30",
       "Next_Unpaid_Amount": 3500,
-      "Our_Status": "",
-      "BadDebt": 0
+      "Our_Status": "Absconded",
+      "BadDebt": 3500.15
     },
     {
       "scheme_id": "51732",
@@ -401440,8 +401440,8 @@
       "RemainingAmount": 875.12,
       "Next_Unpaid_DueDate": "2026-05-30",
       "Next_Unpaid_Amount": 875,
-      "Our_Status": "",
-      "BadDebt": 0
+      "Our_Status": "Absconded",
+      "BadDebt": 875.12
     },
     {
       "scheme_id": "51022",
@@ -401503,8 +401503,8 @@
       "RemainingAmount": 5000,
       "Next_Unpaid_DueDate": "2026-05-30",
       "Next_Unpaid_Amount": 4999.99,
-      "Our_Status": "",
-      "BadDebt": 0
+      "Our_Status": "Absconded",
+      "BadDebt": 5000
     },
     {
       "scheme_id": "51240",
@@ -401629,8 +401629,8 @@
       "RemainingAmount": 2833.41,
       "Next_Unpaid_DueDate": "2026-05-30",
       "Next_Unpaid_Amount": 2833,
-      "Our_Status": "",
-      "BadDebt": 0
+      "Our_Status": "Absconded",
+      "BadDebt": 2833.41
     },
     {
       "scheme_id": "50997",
@@ -401776,8 +401776,8 @@
       "RemainingAmount": 133.33,
       "Next_Unpaid_DueDate": "2026-05-30",
       "Next_Unpaid_Amount": 133,
-      "Our_Status": "",
-      "BadDebt": 0
+      "Our_Status": "Absconded",
+      "BadDebt": 133.33
     },
     {
       "scheme_id": "46563",
@@ -401818,8 +401818,8 @@
       "RemainingAmount": 1000.44,
       "Next_Unpaid_DueDate": "2026-05-30",
       "Next_Unpaid_Amount": 1000,
-      "Our_Status": "",
-      "BadDebt": 0
+      "Our_Status": "Absconded",
+      "BadDebt": 1000.44
     },
     {
       "scheme_id": "51022",
@@ -401860,8 +401860,8 @@
       "RemainingAmount": 876.12,
       "Next_Unpaid_DueDate": "2026-05-30",
       "Next_Unpaid_Amount": 876,
-      "Our_Status": "",
-      "BadDebt": 0
+      "Our_Status": "Absconded",
+      "BadDebt": 876.12
     },
     {
       "scheme_id": "51093",
@@ -401881,8 +401881,8 @@
       "RemainingAmount": 6999.94,
       "Next_Unpaid_DueDate": "2026-05-30",
       "Next_Unpaid_Amount": 7000,
-      "Our_Status": "",
-      "BadDebt": 0
+      "Our_Status": "Absconded",
+      "BadDebt": 6999.94
     },
     {
       "scheme_id": "52287",
@@ -401944,8 +401944,8 @@
       "RemainingAmount": 1033.97,
       "Next_Unpaid_DueDate": "2026-05-30",
       "Next_Unpaid_Amount": 1034,
-      "Our_Status": "",
-      "BadDebt": 0
+      "Our_Status": "Absconded",
+      "BadDebt": 1033.97
     },
     {
       "scheme_id": "51680",
@@ -402049,8 +402049,8 @@
       "RemainingAmount": 2501.01,
       "Next_Unpaid_DueDate": "2026-05-30",
       "Next_Unpaid_Amount": 2501,
-      "Our_Status": "",
-      "BadDebt": 0
+      "Our_Status": "Absconded",
+      "BadDebt": 2501.01
     },
     {
       "scheme_id": "46563",
@@ -402112,8 +402112,8 @@
       "RemainingAmount": 7567.22,
       "Next_Unpaid_DueDate": "2026-05-30",
       "Next_Unpaid_Amount": 7567,
-      "Our_Status": "",
-      "BadDebt": 0
+      "Our_Status": "Absconded",
+      "BadDebt": 7567.22
     },
     {
       "scheme_id": "51910",
@@ -402574,8 +402574,8 @@
       "RemainingAmount": 1633.52,
       "Next_Unpaid_DueDate": "2026-05-30",
       "Next_Unpaid_Amount": 1634,
-      "Our_Status": "",
-      "BadDebt": 0
+      "Our_Status": "Absconded",
+      "BadDebt": 1633.52
     },
     {
       "scheme_id": "51057",
@@ -402616,8 +402616,8 @@
       "RemainingAmount": 5000.04,
       "Next_Unpaid_DueDate": "2026-05-30",
       "Next_Unpaid_Amount": 5000,
-      "Our_Status": "",
-      "BadDebt": 0
+      "Our_Status": "Absconded",
+      "BadDebt": 5000.04
     },
     {
       "scheme_id": "47066",
@@ -402679,8 +402679,8 @@
       "RemainingAmount": 951.18,
       "Next_Unpaid_DueDate": "2026-05-30",
       "Next_Unpaid_Amount": 951.2200000000012,
-      "Our_Status": "",
-      "BadDebt": 0
+      "Our_Status": "Absconded",
+      "BadDebt": 951.18
     },
     {
       "scheme_id": "51298",
@@ -439702,8 +439702,8 @@
       "RemainingAmount": 10000.31,
       "Next_Unpaid_DueDate": "2026-05-30",
       "Next_Unpaid_Amount": 1200,
-      "Our_Status": "",
-      "BadDebt": 0
+      "Our_Status": "Absconded",
+      "BadDebt": 10000.31
     },
     {
       "scheme_id": "51833",
@@ -439870,8 +439870,8 @@
       "RemainingAmount": 18468.41,
       "Next_Unpaid_DueDate": "2026-05-30",
       "Next_Unpaid_Amount": 7801.199999999999,
-      "Our_Status": "",
-      "BadDebt": 0
+      "Our_Status": "Absconded",
+      "BadDebt": 18468.41
     },
     {
       "scheme_id": "52192",
@@ -439912,8 +439912,8 @@
       "RemainingAmount": 10701.09,
       "Next_Unpaid_DueDate": "2026-05-30",
       "Next_Unpaid_Amount": 4341,
-      "Our_Status": "",
-      "BadDebt": 0
+      "Our_Status": "Absconded",
+      "BadDebt": 10701.09
     },
     {
       "scheme_id": "51398",
@@ -439975,8 +439975,8 @@
       "RemainingAmount": 10186.82,
       "Next_Unpaid_DueDate": "2026-05-30",
       "Next_Unpaid_Amount": 2112.199999999999,
-      "Our_Status": "",
-      "BadDebt": 0
+      "Our_Status": "Absconded",
+      "BadDebt": 10186.82
     },
     {
       "scheme_id": "51433",
@@ -440080,8 +440080,8 @@
       "RemainingAmount": 11499.87,
       "Next_Unpaid_DueDate": "2026-05-30",
       "Next_Unpaid_Amount": 2300,
-      "Our_Status": "",
-      "BadDebt": 0
+      "Our_Status": "Absconded",
+      "BadDebt": 11499.87
     },
     {
       "scheme_id": "51679",
@@ -440122,8 +440122,8 @@
       "RemainingAmount": 12019.91,
       "Next_Unpaid_DueDate": "2026-05-30",
       "Next_Unpaid_Amount": 5212,
-      "Our_Status": "",
-      "BadDebt": 0
+      "Our_Status": "Absconded",
+      "BadDebt": 12019.91
     },
     {
       "scheme_id": "53270",
@@ -440563,8 +440563,8 @@
       "RemainingAmount": 10999.91,
       "Next_Unpaid_DueDate": "2026-05-30",
       "Next_Unpaid_Amount": 4600,
-      "Our_Status": "",
-      "BadDebt": 0
+      "Our_Status": "Absconded",
+      "BadDebt": 10999.91
     },
     {
       "scheme_id": "52673",
@@ -440605,8 +440605,8 @@
       "RemainingAmount": 8438.88,
       "Next_Unpaid_DueDate": "2026-05-30",
       "Next_Unpaid_Amount": 3063.3999999999996,
-      "Our_Status": "",
-      "BadDebt": 0
+      "Our_Status": "Absconded",
+      "BadDebt": 8438.88
     },
     {
       "scheme_id": "51362",
@@ -440752,8 +440752,8 @@
       "RemainingAmount": 13400.04,
       "Next_Unpaid_DueDate": "2026-05-30",
       "Next_Unpaid_Amount": 6040,
-      "Our_Status": "",
-      "BadDebt": 0
+      "Our_Status": "Absconded",
+      "BadDebt": 13400.04
     },
     {
       "scheme_id": "51782",
@@ -440836,8 +440836,8 @@
       "RemainingAmount": 17933.34,
       "Next_Unpaid_DueDate": "2026-05-30",
       "Next_Unpaid_Amount": 8759.8,
-      "Our_Status": "",
-      "BadDebt": 0
+      "Our_Status": "Absconded",
+      "BadDebt": 17933.34
     },
     {
       "scheme_id": "51923",
@@ -440857,8 +440857,8 @@
       "RemainingAmount": 17999.62,
       "Next_Unpaid_DueDate": "2026-05-30",
       "Next_Unpaid_Amount": 8800,
-      "Our_Status": "",
-      "BadDebt": 0
+      "Our_Status": "Absconded",
+      "BadDebt": 17999.62
     },
     {
       "scheme_id": "52409",
@@ -440899,8 +440899,8 @@
       "RemainingAmount": 6801.25,
       "Next_Unpaid_DueDate": "2026-05-30",
       "Next_Unpaid_Amount": 2080.5999999999995,
-      "Our_Status": "",
-      "BadDebt": 0
+      "Our_Status": "Absconded",
+      "BadDebt": 6801.25
     },
     {
       "scheme_id": "51863",
@@ -440941,8 +440941,8 @@
       "RemainingAmount": 9949.97,
       "Next_Unpaid_DueDate": "2026-05-30",
       "Next_Unpaid_Amount": 1970,
-      "Our_Status": "",
-      "BadDebt": 0
+      "Our_Status": "Absconded",
+      "BadDebt": 9949.97
     },
     {
       "scheme_id": "52275",
@@ -441025,8 +441025,8 @@
       "RemainingAmount": 11600.2,
       "Next_Unpaid_DueDate": "2026-05-30",
       "Next_Unpaid_Amount": 960,
-      "Our_Status": "",
-      "BadDebt": 0
+      "Our_Status": "Absconded",
+      "BadDebt": 11600.2
     },
     {
       "scheme_id": "51372",
@@ -441130,8 +441130,8 @@
       "RemainingAmount": 9333.66,
       "Next_Unpaid_DueDate": "2026-05-30",
       "Next_Unpaid_Amount": 134,
-      "Our_Status": "",
-      "BadDebt": 0
+      "Our_Status": "Absconded",
+      "BadDebt": 9333.66
     },
     {
       "scheme_id": "51348",
@@ -441151,8 +441151,8 @@
       "RemainingAmount": 16533.31,
       "Next_Unpaid_DueDate": "2026-05-30",
       "Next_Unpaid_Amount": 7919.799999999999,
-      "Our_Status": "",
-      "BadDebt": 0
+      "Our_Status": "Absconded",
+      "BadDebt": 16533.31
     },
     {
       "scheme_id": "51946",
@@ -441214,8 +441214,8 @@
       "RemainingAmount": 16533.31,
       "Next_Unpaid_DueDate": "2026-05-30",
       "Next_Unpaid_Amount": 7919.799999999999,
-      "Our_Status": "",
-      "BadDebt": 0
+      "Our_Status": "Absconded",
+      "BadDebt": 16533.31
     },
     {
       "scheme_id": "52274",
@@ -441235,8 +441235,8 @@
       "RemainingAmount": 8400.04,
       "Next_Unpaid_DueDate": "2026-05-30",
       "Next_Unpaid_Amount": 1040,
-      "Our_Status": "",
-      "BadDebt": 0
+      "Our_Status": "Absconded",
+      "BadDebt": 8400.04
     },
     {
       "scheme_id": "51959",
@@ -441697,8 +441697,8 @@
       "RemainingAmount": 15568.06,
       "Next_Unpaid_DueDate": "2026-05-30",
       "Next_Unpaid_Amount": 7340.799999999999,
-      "Our_Status": "",
-      "BadDebt": 0
+      "Our_Status": "Absconded",
+      "BadDebt": 15568.06
     },
     {
       "scheme_id": "51761",
@@ -441718,8 +441718,8 @@
       "RemainingAmount": 21600.2,
       "Next_Unpaid_DueDate": "2026-05-30",
       "Next_Unpaid_Amount": 10960,
-      "Our_Status": "",
-      "BadDebt": 0
+      "Our_Status": "Absconded",
+      "BadDebt": 21600.2
     },
     {
       "scheme_id": "51742",
@@ -441991,8 +441991,8 @@
       "RemainingAmount": 19680.65,
       "Next_Unpaid_DueDate": "2026-05-30",
       "Next_Unpaid_Amount": 10208.6,
-      "Our_Status": "",
-      "BadDebt": 0
+      "Our_Status": "Absconded",
+      "BadDebt": 19680.65
     },
     {
       "scheme_id": "51343",
